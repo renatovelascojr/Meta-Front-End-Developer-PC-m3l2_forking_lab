@@ -144,8 +144,9 @@ Read the instructions of this file in the README.md
 - ### **R**
 
   - [Roger] - Norway. Front-End-Developer
-  
+  - [Ren Velasco] - Meta Front-End-Developer
   - [Ram Santosh] - India. Front-End-Developer
+
 
 - ### **S**
 
